@@ -1,0 +1,45 @@
+*{
+   margin: 0;
+   border: 0;
+   padding: 0;
+   width: 385px;
+   height: 100vh;
+}
+
+body{
+   border: solid 3px red;
+}
+
+header{
+   width: 380px;
+   height: 90px;
+   border: solid 3px rgb(252, 166, 182);
+}
+
+.div-1{
+   width: 380px;
+   height: 130px;
+   border: solid 3px green;
+
+}
+
+.div-2{
+   width: 380px;
+   height: 180px;
+   border: solid 3px yellow;
+
+}
+
+.div-3{
+   width: 380px;
+   height: 200px;
+   border: solid 3px black;
+
+}
+
+.div-4{
+   width: 380px;
+   height: 60px;
+   border: solid 3px blue;
+
+}
